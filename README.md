@@ -587,6 +587,7 @@ A curated list of awesome frontend development resources
 - [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter, diff and JSON Schema toolbox that runs in the browser.
 - [node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js.
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc).
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows.
